@@ -1,0 +1,6 @@
+revanthvinay17_db_user
+Mongodb123
+
+python -m pip install "pymongo[srv]==3.12"
+
+mongodb+srv://revanthvinay17_db_user:Mongodb123@cluster1.3sfvwhi.mongodb.net/?appName=Cluster1
